@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="33343" started-at="2018-09-04T19:55:58Z" finished-at="2018-09-04T19:56:31Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="33343" started-at="2018-09-04T19:55:58Z" finished-at="2018-09-04T19:56:31Z">
+      <class name="com.aa.UnitTest">
+        <test-method status="PASS" signature="goToHomePage()[pri:0, instance:com.aa.UnitTest@4cb2c100]" name="goToHomePage" duration-ms="30808" started-at="2018-09-04T19:55:58Z" finished-at="2018-09-04T19:56:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.aa.UnitTest@4cb2c100]" name="cleanUp" is-config="true" duration-ms="2512" started-at="2018-09-04T19:56:29Z" finished-at="2018-09-04T19:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.aa.UnitTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
